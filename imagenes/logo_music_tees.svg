@@ -1,0 +1,17 @@
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo circular -->
+  <circle cx="150" cy="130" r="90" fill="white" stroke="black" stroke-width="3"/>
+  
+  <!-- Silueta de camiseta estilizada -->
+  <path d="M150,70 L180,70 C185,70 190,75 195,85 L205,105 C205,105 190,110 190,110 L190,190 L110,190 L110,110 C110,110 95,105 95,105 L105,85 C110,75 115,70 120,70 L150,70 Z" fill="white" stroke="black" stroke-width="2.5"/>
+  
+  <!-- Ondas de sonido estilizadas -->
+  <path d="M130,115 C120,125 120,155 130,165" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M140,105 C125,120 125,160 140,175" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M150,100 C130,115 130,165 150,180" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M160,105 C175,120 175,160 160,175" fill="none" stroke="black" stroke-width="2"/>
+  <path d="M170,115 C180,125 180,155 170,165" fill="none" stroke="black" stroke-width="2"/>
+  
+  <!-- Texto "MUSIC TEES" -->
+  <text x="150" y="250" font-family="Matura MT Script Capitals, serif" font-size="26" text-anchor="middle">Music Tees</text>
+</svg>
